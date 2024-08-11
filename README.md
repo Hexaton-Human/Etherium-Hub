@@ -1,5 +1,5 @@
 # Etherium-Hub
-Etherium-Hub, New generate Roblox hub.
+Etherium-Hub, New generate Roblox hub wrriten by Python.
 
 ## Installation
 Modern UI Version: 
@@ -13,6 +13,10 @@ Console Version:
 - Extract File
 - Run Setup.exe
 - Select Console
+
+Requirement:
+- Git
+- Python
 
 ## Issues
 - Roblox update Anti-Cheat. So we cannot inject script.
